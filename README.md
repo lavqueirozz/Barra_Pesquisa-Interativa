@@ -23,6 +23,8 @@ O funcionamento é simples e intuitivo:
 
 ## 📂 Estrutura do Projeto
 📁 Barra-Pesquisa
+
  ┣ 📜 index.html   → Estrutura principal do projeto
+ 
  ┗ 📜 style.css    → Estilização e animações da barra de pesquisa
  
