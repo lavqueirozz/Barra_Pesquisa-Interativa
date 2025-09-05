@@ -20,3 +20,9 @@ O funcionamento é simples e intuitivo:
 1. Clone ou baixe este repositório:  
    ```bash
    git clone  https://github.com/lavqueirozz/Barra_Pesquisa-Interativa.git
+
+## 📂 Estrutura do Projeto
+📁 Barra-Pesquisa
+ ┣ 📜 index.html   → Estrutura principal do projeto
+ ┗ 📜 style.css    → Estilização e animações da barra de pesquisa
+ 
